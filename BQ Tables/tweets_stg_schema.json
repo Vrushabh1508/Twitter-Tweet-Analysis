@@ -1,0 +1,32 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "unique_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "image_name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tags",
+      "type": "JSON"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "raw_tweets",
+      "type": "JSON"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "processing_datetime",
+      "type": "DATETIME"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "created_date",
+      "type": "DATE"
+    }
+  ]

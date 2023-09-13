@@ -1,0 +1,47 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "batch_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "image_name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "processing_datetime",
+      "type": "DATETIME"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "created_date",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tags",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tweet_id",
+      "type": "INT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tweet_text",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "sentimental_score",
+      "type": "FLOAT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "sentiment",
+      "type": "STRING"
+    }
+  ]

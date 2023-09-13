@@ -1,0 +1,52 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "unique_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "keyword",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "image_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "image_name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "thumbnail_url",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "text",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "text_flag",
+      "type": "BOOL"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tags",
+      "type": "JSON"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "created_date",
+      "type": "DATE"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "processing_datetime",
+      "type": "DATETIME"
+    }
+  ]

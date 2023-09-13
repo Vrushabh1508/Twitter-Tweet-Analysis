@@ -1,0 +1,62 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "unique_id",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "keyword",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "image_name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "thumbnail_URL",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "text",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "tags",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "batch_id",
+      "type": "INT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "positive_sentiment",
+      "type": "INT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "negative_sentiment",
+      "type": "INT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "neutral_sentiment",
+      "type": "INT64"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "processing_datetime",
+      "type": "DATETIME"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "created_date",
+      "type": "DATE"
+    }
+  ]
